@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_options">
+        <item>Select gender</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Prefer not to say</item>
+    </string-array>
+</resources>
